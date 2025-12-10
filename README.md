@@ -6,10 +6,46 @@ I'm **Jonathan**, an Engineering Manager at [Lumapps](https://www.lumapps.com/),
 
 I design projects with a **low-tech approach**, prioritizing **data privacy** and **governance** to create sustainable and ethical solutions.
 
+## 💻 Technologies
+
+### Front-end
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+###  Back-end
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Data
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/-Apache%20Beam-FF6600?style=flat-square&logo=apache&logoColor=white)
+
+### Infra
+
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
 ## 🚀 Current Projects
 
 - **[navitia-mcp-server](https://github.com/jonperron/python-navitia-client)** - A Python MCP server enabling AI agents to interact with public transport APIs via Navitia.io
 - **[med-assist](https://github.com/jonperron/med-assist)** - A AI-powered tool to help doctors summarize their patients' data
+
+## 📁 Past Projects
+
+- **[castly](https://github.com/jonperron/Castly)** - Send messages via email, SMS, or messaging apps using a single API—no matter the underlying provider.
+- **[cerberus](https://github.com/jonperron/cerberus)** - Open-source CCTV solution with real time recognition.
+- **[qualib](https://github.com/jonperron/qualib)**.
 
 ## 🛠️ Libraries & Tools
 
